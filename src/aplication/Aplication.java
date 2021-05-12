@@ -34,5 +34,6 @@ try{
 catch(WithdrawException a) {
 	System.out.println("Error in withdraw: " + a.getMessage());
 }
+//Exibindo mensagem da exception
 	}
 }
